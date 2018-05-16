@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SdkModel</string>
+    <string name="hint_text">我已阅读并同意神话用户服务协议</string>
+    <string name="play_now">立即体验</string>
+    <string name="mc_account">MC账号</string>
+    <string name="face_book">Facebook</string>
+
+</resources>
